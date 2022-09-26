@@ -10,7 +10,7 @@ export default function Home() {
         <meta name="keywords" content="whatever keyword in here" />
       </Head>
       <h1 className={styles.title}>Home page</h1>
-      <h2>Hi! I'm Henry, an engineer who wants to get things done. </h2>
+      <h2>Hi! I am Henry, an engineer who wants to get things done. </h2>
 
       <Link href={"./ninjas"}>
         <a className={styles.btn}>See Projects</a>
